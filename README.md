@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Programming Student</p>
+<p align="left">Hello, my name is Rafael, im a backend developer with NodeJs and im here to share some projects and ideas that i do on my journey as a programmer!</p>
 
 ###
 
