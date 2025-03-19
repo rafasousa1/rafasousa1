@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Rafael, tenho 18 anos e nasci em São Paulo, des de criança gostava de mexer com tecnologia, então sou apaixonado por esta área. Concluí meu ensino médio no Senac fazendo o curso técnico de Internet of Things (IOT), e hoje estou cursando Sistemas de Informação no Centro Universitário Senac Santo Amaro, aqui então irei colocar meus estudos e meus projetos como desenvolvedor</p>
+<p align="left">Olá, me chamo Rafael, tenho 18 anos e nasci em São Paulo, desde criança gostava de mexer com tecnologia, então sou apaixonado por esta área. Concluí meu ensino médio no Senac fazendo o curso técnico de Internet of Things (IOT), e hoje estou cursando Sistemas de Informação no Centro Universitário Senac Santo Amaro, aqui então irei colocar meus estudos e meus projetos como desenvolvedor</p>
 
 ###
 
