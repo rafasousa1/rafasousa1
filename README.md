@@ -7,7 +7,7 @@
 
 ## Tecnologias e Ferramentas 🔧
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,py,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,py,prisma,docker,git" />
   
 
 ## Github Stats
