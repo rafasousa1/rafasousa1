@@ -19,11 +19,11 @@
 
 ## 🛠 Banco de Dados & ORM
 
-  <img src="https://skillicons.dev/icons?i=,prisma,postgresql" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgresql" />
 
 ## 📦 Containers & Versionamento
 
-  <img src="https://skillicons.dev/icons?i=,docker,git" />
+  <img src="https://skillicons.dev/icons?i=docker,git" />
 
 <h2 align="left">Social Medias</h2>
 
