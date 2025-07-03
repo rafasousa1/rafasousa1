@@ -5,9 +5,9 @@
 <p align="left">Olá, me chamo Rafael, tenho 18 anos e nasci em São Paulo, desde criança gosto de mexer com tecnologia, e então surgiu uma paixão por esta área. Concluí meu ensino médio no Senac fazendo o curso técnico de Internet of Things (IOT), e hoje estou cursando Sistemas de Informação no Centro Universitário Senac Santo Amaro, aqui então irei colocar meus estudos e meus projetos como desenvolvedor.</p>
 
 
-## Tecnologias e Ferramentas 🔧
+## 👨‍💻 Linguagens e Frameworks
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,py,prisma,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,py" />
   
 
 ## Github Stats
@@ -17,6 +17,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafasousa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+## 🛠 Banco de Dados & ORM
+
+<img src="https://skillicons.dev/icons?i=,prisma,postgresql" />
+
+## 📦 Containers & Versionamento
+
+<img src="https://skillicons.dev/icons?i=,docker,git" />
 
 <h2 align="left">Social Medias</h2>
 
