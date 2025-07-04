@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Linguagens e Frameworks
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,prisma,postgresql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,py,prisma,postgresql,docker,git" />
   
 
 ## Github Stats
