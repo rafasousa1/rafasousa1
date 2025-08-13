@@ -5,7 +5,7 @@
 <p align="left">Olá, me chamo Rafael, tenho 18 anos e nasci em São Paulo, desde criança gosto de mexer com tecnologia, e então me surgiu uma paixão por esta área. Concluí meu ensino médio no Senac fazendo o curso técnico de Internet of Things (IoT), e hoje estou cursando Sistemas de Informação na Universidade São Judas Tadeu, aqui então irei colocar meus estudos e meus projetos como desenvolvedor.</p>
 
 
-## 🔧 Ferramentas
+## 🔧 Tools
 
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,py,prisma,docker,git" />
 
