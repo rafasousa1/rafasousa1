@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rafael, um desenvolvedor backend focado em evoluir.
+<p align="left">Meu nome é Rafael, um desenvolvedor backend focado em evolução.
 
 Estudando Sistemas de Informação na Universidade São Judas Tadeu, apaixonado por livros, tecnologia, esportes e transformar ideiais em código.</p>
 
