@@ -9,7 +9,7 @@ Estudando Sistemas de Informação na Universidade São Judas Tadeu, apaixonado 
 
 ## 🔧 Tools
 
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,postgres,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,postgres,linux,docker,aws" />
 
 <h2 align="left">Social Medias</h2>
 
