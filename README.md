@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">Meu nome é Rafael, um desenvolvedor backend focado em evolução.
+<p align="left">Meu nome é Rafael, desenvolvedor focado em DevOps, automação e melhoria contínua.
 
 Estudando Sistemas de Informação na Universidade São Judas Tadeu, apaixonado por livros, tecnologia, esportes e transformar ideiais em código.</p>
 
 
 ## 🔧 Tools
 
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,prisma,postgres,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,postgres,docker,aws" />
 
 <h2 align="left">Social Medias</h2>
 
